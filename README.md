@@ -1,13 +1,27 @@
 
+
+
 ### Olá! Eu sou Pablo Henrique 😁
 
 ##
 • Estudante de programação com foco no back-end 👾
 ##
 
+<div>
+  <img width="385px" src="https://github-readme-stats.vercel.app/api?username=pablohenriq01&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pablohenriq01&layout=compact&theme=onedark" />
+</div>
+ 
+##
+
 ### Contatos 📨
 
-![[LINKEDIN](https://www.linkedin.com/in/pabloh01/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![[GMAIL](pablohenriqq01@gmail.com)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<div> 
+  <a href="https://www.linkedin.com/in/pabloh01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: pablohenriqq01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+
 
 ##
 
@@ -18,6 +32,3 @@
 
 ##
 
-![PABLO HENRIQUE STATUS](https://github-readme-stats.vercel.app/api?username=pablohenriq01&show_icons=true&theme=gruvbox&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablohenriq01&layout=compact&theme=gruvbox) 
