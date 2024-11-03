@@ -8,8 +8,8 @@
 ##
 
 <div>
-  <img width="385px" src="https://github-readme-stats.vercel.app/api?username=pablohenriq01&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pablohenriq01&layout=compact&theme=onedark" />
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=pablohenriq01&show_icons=true&theme=onedark">
+  <img width="450px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pablohenriq01&layout=compact&theme=onedark" />
 </div>
  
 ##
@@ -18,10 +18,10 @@
 
 <div>
   <a href="https://www.linkedin.com/in/pabloh01/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="80"/>
   </a>
   <a href="mailto:pablohenriqq01@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="60"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="80"/>
   </a>
  </br>
 </div>
