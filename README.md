@@ -8,8 +8,8 @@
 ##
 
 <div>
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=pablohenriq01&show_icons=true&theme=onedark">
-  <img width="450px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pablohenriq01&layout=compact&theme=onedark" />
+  <img width="385px" src="https://github-readme-stats.vercel.app/api?username=pablohenriq01&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pablohenriq01&layout=compact&theme=onedark" />
 </div>
  
 ##
