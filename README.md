@@ -7,7 +7,7 @@
 • Estudante de programação com foco no back-end 👾
 ##
 
-<div>
+<div align="center">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pablohenriq01&layout=compact&theme=onedark" />
 </div>
 
