@@ -5,7 +5,7 @@
 
 ##
 - 🚀 Junior Full-stack Developer focused on **Back-end**
-- 👨‍💻 I'm currrently working at **ChipTiming** 
+- 👨‍💻 I'm currently working at **ChipTiming** 
 
 ##
 
