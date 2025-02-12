@@ -1,10 +1,12 @@
 
 
 
-### Olá! Eu sou Pablo Henrique 😁
+### Hi, i'm Pablo Henrique 😁
 
 ##
-• Estudante de programação com foco no back-end 👾
+- 🚀 Junior Full-stack Developer focused on **Back-end**
+- 👨‍💻 I'm currrently working at **ChipTiming** 
+
 ##
 
 <div align="center">
@@ -13,13 +15,13 @@
 
 <div align="center">
   <a href="https://github.com/pablohenriq01t">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=pablohenriq01&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+    <img  width="385px"src="https://github-readme-streak-stats.herokuapp.com?user=pablohenriq01&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
   
 
 ##
 
-### Contatos 📨
+### Contact 📨
 
 <div>
   <a href="https://www.linkedin.com/in/pabloh01/">
@@ -33,9 +35,10 @@
 
 ##
 
-### Ferramentas e Linguagens 💻
+### Languages and tools 💻
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,java,spring,maven,cs,dotnet" width="1000">
-  <img src="https://skillicons.dev/icons?i=py,flask,js,bootstrap,html,css,postgresql,mysql" width="1000">
+  <img src="https://skillicons.dev/icons?i=linux,windows,java,spring,maven,py,flask,js,nodejs,ts" width="75%">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,postgresql,mysql,git,docker,aws,postman" width="75%">
 </div>
+
