@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/pablohenriq01t">
+  <a href="https://github.com/pablohenriq01">
     <img  src="https://github-readme-streak-stats.herokuapp.com?user=pablohenriq01&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
   
