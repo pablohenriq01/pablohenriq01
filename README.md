@@ -11,13 +11,13 @@
 
 <div align="center">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pablohenriq01&layout=compact&theme=onedark" />
-</div>
 
-<div align="center">
-  <a href="https://github.com/pablohenriq01t">
-    <img  src="https://github-readme-streak-stats.herokuapp.com?user=pablohenriq01&theme=rising-sun&hide_border=true&exclude_days=Sun" />
-  </a>
-  
+
+<div>
+<a href="https://git.io/streak-stats">
+<img width="385px" src="https://github-readme-streak-stats.herokuapp.com?user=pablohenriq01&theme=dark&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+</a>
+</div>
 
 ##
 
