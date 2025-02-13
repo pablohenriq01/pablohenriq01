@@ -1,6 +1,4 @@
 
-
-
 ### Hi, i'm Pablo Henrique 😁
 
 ##
