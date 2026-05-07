@@ -36,7 +36,7 @@
 ### Languages and tools 💻
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,java,spring,maven,py,flask,js,nodejs,ts" width="100%">
+  <img src="https://skillicons.dev/icons?i=linux,windows,cs,dotnet,java,spring,maven,py,flask,js,nodejs,ts" width="100%">
   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,postgresql,mysql,git,docker,aws,postman" width="100%">
 </div>
 
